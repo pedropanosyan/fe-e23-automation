@@ -62,3 +62,5 @@ The complexity level of the chosen tests will be taken into account.
 Playwright Documentation: https://playwright.dev/docs/intro
 
 Page Object Model Tutorial: https://www.youtube.com/watch?v=IUjZQC2zGfg&ab_channel=SDET-QA
+
+Learn more about playwright and automation : https://testautomationu.applitools.com/learningpaths.html?id=playwright-path
