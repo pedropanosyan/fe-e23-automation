@@ -59,6 +59,11 @@ Automate a single test case for each section **HOME PAGE, MY ACCOUNT - LOGIN, MY
 
 The complexity level of the chosen tests will be taken into account.
 
+
+## Presentation
+
+[Link](https://docs.google.com/presentation/d/1N0gVH9jRaJumBSx7znMRa28qmVb2zZEuyfwfX334nNk/edit?usp=sharing)
+
 ## Resources
 
 Playwright Documentation: https://playwright.dev/docs/intro
