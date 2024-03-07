@@ -49,7 +49,7 @@ Configurations from the .config file will be considered to enhance the execution
 
 ## Test Cases:
 
-The automated test cases are available at this link: https://practice.automationtesting.in/test-cases/
+The test cases are available at this link: https://practice.automationtesting.in/test-cases/
 
 Automate a single test case for each section **HOME PAGE, MY ACCOUNT - LOGIN, MY ACCOUNT - REGISTRATION, SHOP, MY ACCOUNT)**
 
