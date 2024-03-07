@@ -26,6 +26,8 @@ tests: Contains the test files written in Playwright.
 End-2-End Automation Testing Challenge
 For the End-2-End Automation testing challenge, you will automate test cases for the provided website below.
 
+https://practice.automationtesting.in/
+
 ## Guidelines
 ### Design Pattern:
 Page Object Model
@@ -51,7 +53,7 @@ The automated test cases are available at this link: https://practice.automation
 
 Automate a single test case for each section **HOME PAGE, MY ACCOUNT - LOGIN, MY ACCOUNT - REGISTRATION, SHOP, MY ACCOUNT)**
 
-**TOTAL: 5** automated tests should be in the suite.
+**TOTAL: 5** Automated tests should be in the suite.
 
 The complexity level of the chosen tests will be taken into account.
 
