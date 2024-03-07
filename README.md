@@ -71,3 +71,10 @@ Playwright Documentation: https://playwright.dev/docs/intro
 Page Object Model Tutorial: https://www.youtube.com/watch?v=IUjZQC2zGfg&ab_channel=SDET-QA
 
 Learn more about playwright and automation : https://testautomationu.applitools.com/learningpaths.html?id=playwright-path
+
+## Delivery terms
+
+To complete the tasks, go ahead and fork this repository.
+After finishing them, you should share the repository to @carlosaular and @luiscaSirius on GitLab or @carlosaular and @luiscassol on GitHub.
+Don't forget to send a message to him on Slack after finishing!
+Good luck!
