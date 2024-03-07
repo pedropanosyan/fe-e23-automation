@@ -34,8 +34,10 @@ Page Object Model
 
 **Page Object Files**
 Each page or component of the application should be separated into its own file containing locators and functions for that page.
+
 **Test Data Files**
 It is a JSON file from which data is retrieved for the tests.
+
 **Test Files**
 Test files are separated by functionalities and sections of the app, not by page.
 A test can consume page objects from different files.
