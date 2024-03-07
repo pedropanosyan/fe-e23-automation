@@ -16,13 +16,21 @@ module.exports = defineConfig({
   fullyParallel: true,
   /* Fail the build on CI if you accidentally left test.only in the source code. */
   forbidOnly: !!process.env.CI,
+  /* Retry on CI only */
+  retries: 1,
   /* Opt out of parallel tests on CI. */
   workers: process.env.CI ? 1 : undefined,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
   reporter: 'html',
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
+  timeout: 30000,
+
+  expect:{
+    timeout: 30000,
+  },
   use: {
-    trace: 'on-first-retry', 
+    trace: 'on-first-retry',
+    
   },
 
   /* Configure projects for major browsers */
@@ -32,15 +40,15 @@ module.exports = defineConfig({
       use: { ...devices['Desktop Chrome'] },
     },
 
-    // {
-      // name: 'firefox',
-      // use: { ...devices['Desktop Firefox'] },
-    // },
+    {
+      name: 'firefox',
+      use: { ...devices['Desktop Firefox'] },
+    },
 
-    // {
-      // name: 'webkit',
-      // use: { ...devices['Desktop Safari'] },
-    // },
+    {
+      name: 'webkit',
+      use: { ...devices['Desktop Safari'] },
+    },
 
     /* Test against mobile viewports. */
     // {
@@ -48,9 +56,9 @@ module.exports = defineConfig({
     //   use: { ...devices['Pixel 5'] },
     // },
     // {
-       // name: 'Mobile Safari',
+        // name: 'Mobile Safari',
        // use: { ...devices['iPhone 12'] },
-    // },
+     // },
 
     /* Test against branded browsers. */
     // {
