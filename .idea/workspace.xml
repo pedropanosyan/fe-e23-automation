@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f1b0dd0-8466-4222-a3f9-bb2b66758f00" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dSBqrDcvOFeI2vrHE4Tw45gOQ7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Playwright.Home page with three arrivals only (1).executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Home page with three arrivals only.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Sign up with valid username and password..executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Viewing my orders in my account page.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pedropanosyan/Documents/Sirius/QA-Workshop/fe-e23-automation&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Playwright.Viewing my orders in my account page">
+    <configuration name="Home page with three arrivals only (1)" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/shop.spec.js" />
+      <test-names>
+        <test-name value="Home page with three arrivals only" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Home page with three arrivals only" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/home.spec.js" />
+      <test-names>
+        <test-name value="Home page with three arrivals only" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Sign up with valid username and password." type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/signUp.spec.js" />
+      <test-names>
+        <test-name value="Sign up with valid username and password." />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Viewing my orders in my account page" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/myAccount.spec.js" />
+      <test-names>
+        <test-name value="Viewing my orders in my account page" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Playwright.Viewing my orders in my account page" />
+        <item itemvalue="Playwright.Home page with three arrivals only" />
+        <item itemvalue="Playwright.Home page with three arrivals only (1)" />
+        <item itemvalue="Playwright.Sign up with valid username and password." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f1b0dd0-8466-4222-a3f9-bb2b66758f00" name="Changes" comment="" />
+      <created>1709991792897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709991792897</updated>
+      <workItem from="1709991794237" duration="9016000" />
+      <workItem from="1710504960839" duration="265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
