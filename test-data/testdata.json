@@ -4,11 +4,19 @@
         "url":"http://practice.automationtesting.in",
         "title":"Automation Practice Site"
     },
-
+    "myAccount":
+    {
+        "url":"https://practice.automationtesting.in/my-account/",
+        "title":"My Account – Automation Practice Site"
+    },
     "user1":
     {
         "username":"testdemo4",
         "password":"Sirius2023."
+    },
+    "registerUser":
+    {
+        "email": "test@mail.com",
+        "password": "@Sirius2023."
     }
-
 }

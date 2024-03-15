@@ -13,7 +13,8 @@ class TopNav
         this.myAccountButton4 = page.getByLabel("My Account"); //Playwright built in locators https://playwright.dev/docs/api/class-framelocator#frame-locator-get-by-label
         this.myAccountButton5 = page.locator("/html/body/div[1]/div[1]/header/div[2]/nav/ul/li[2]"); //Absolute -Xpath 
         
-
+        this.shopButton = page.locator("#menu-item-40");
+        this.homeButton = page.locator('img[alt="Automation Practice Site"]');
     }
 
     async clickMyAccountButton()
@@ -21,5 +22,14 @@ class TopNav
         await this.myAccountButton1.click();
     }
 
+    async clickShopButton()
+    {
+        await this.shopButton.click();
+    }
+
+    async clickHomeButton()
+    {
+        await this.homeButton.click();
+    }
 }
 module.exports = { TopNav };
